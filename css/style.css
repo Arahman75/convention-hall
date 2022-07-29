@@ -1,0 +1,79 @@
+nav a{
+    font-size: 24px;
+    font-weight: 500;
+    margin-right: 30px;
+}
+.hall{
+    font-size: 34px;
+    font-weight: 700;
+    margin-left: 30px;
+}
+
+.carousel-title{
+    width: 450px;
+height: 250px;
+margin-left: 250px;
+}
+.carousel-btn{
+    background-color: aliceblue;
+    color: blue;
+    font-weight: 600;
+    padding: 10px 25px;
+    border: none;
+    border-radius: 5px;
+}
+.wedding-title button{
+    background: #3F87F5;
+    border: none;
+    padding: 5px 10px;
+    font-weight: 500;
+    color: white;
+}
+.wedding-title h3{
+    color: black;
+    font-size: 30px;
+    font-weight: 600;
+}
+.package-part i{
+   height: 25px;
+   width: 25px;
+   color: gray;
+}
+/* .different-part{
+    background: #3F87F5;
+    box-shadow: 0px 42px 34px rgba(63, 135, 245, 0.25);
+    border-radius: 25px;
+    padding: 30px 10px;
+}
+.different-part h2, h4{
+    color: white;
+} */
+.package-button{
+border: none;
+padding: 10px 60px;
+border-radius: 25px;
+color: #3F87F5;
+background-color: #f1dfea;
+font-weight: 600;
+margin-left: 5px;
+}
+.package-part{
+    border-radius: 5px;
+   
+}
+.package-part:hover{
+    background-color: #3F87F5;
+    margin-top: -25px;
+    color: white;
+    padding: 10px;
+}
+/* .d-button{
+    border: none;
+padding: 10px 60px;
+border-radius: 25px;
+color: #3F87F5;
+background-color: white;
+font-weight: 600;
+margin-left: 15px;
+
+} */
